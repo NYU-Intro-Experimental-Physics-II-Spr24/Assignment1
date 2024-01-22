@@ -1,8 +1,6 @@
 # Assignment1
 Assignment1 for Intro Experimental Physics II Spring 2024
 
-# Assignment0
-
 This read me and associated assignment are adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/) and from [Marc Gershow's NYUExperimentalPhysics1-2021/Assignment0
 ](github.com/NYU-IEP-2022-2023-Assignments/Assignment0).
 
